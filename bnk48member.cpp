@@ -74,3 +74,36 @@ int main(){
   cout << "28. " << mem28.nameMem << "(" << mem28.ageMem << ")\n";
   
 }
+
+/*
+Result:
+BNK48 First Gen Member
+1. Cherprang(21)
+2. Can(20)
+3. Ja(15)
+4. Jan(23)
+5. Jane(17)
+6. Jennis(17)
+7. Jib(15)
+8. kaew(23)
+9. Kaimook(20)
+10. Kate(16)
+11. Korn(19)
+12. Mind(16)
+13. Miori(19)
+14. Mobile(15)
+15. Music(16)
+16. Namnueng(21)
+17. Namsai(18)
+18. Noey(20)
+19. Orn(20)
+20. Pun(17)
+21. Pupae(20)
+22. Satchan(14)
+23. Tarwaan(21)
+24. Isurina(22)
+25. Mesa(18)
+26. Namhom(15)
+27. Nink(17)
+28. Piam(14)
+*/
